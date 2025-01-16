@@ -26,6 +26,13 @@ The analysis is divided into several Jupyter Notebooks, each focusing on a speci
 
 ---
 
+### **Candidates Distribution**
+![Distribution of candidates by 2 of the 3 Gaia colors](Graficos/color-color_candidatos/Gaia_G-Gaia_Bp_vs_Gaia_G-Gaia_Rp_hist_density.png)
+![Distribution of candidates by 2 of the 3 2MASS colors](Graficos/color-color_candidatos/Jmag-Hmag_vs_Hmag-Kmag_hist_density.png)
+![Spacial distribution of the candidates](Graficos/distribucion_candidatos/distribucion_espacial_RA_Dec_con_candidatos_mejorado.png)
+
+---
+
 ### **Important Note on Data Files**
 Due to the large size of some files (several gigabytes), they could not be included in this repository. If you need access to these files, please feel free to contact me at **diegofelipemr@gmail.com**, and I will be happy to provide them.
 
