@@ -32,7 +32,7 @@ The analysis is divided into several Jupyter Notebooks, each focusing on a speci
 ![Distribution of candidates by 2 of the 3 Gaia colors](Graficos/color-color_candidatos/Gaia_G-Gaia_Bp_vs_Gaia_G-Gaia_Rp_hist_density.png)
 2. **Distribution of candidates by 2 of the 3 2MASS colors**
 ![Distribution of candidates by 2 of the 3 2MASS colors](Graficos/color-color_candidatos/Jmag-Hmag_vs_Hmag-Kmag_hist_density.png)
-3. **Spacial distribution of the candidates**
+3. **Spacial distribution of the candidates by probability**
 ![Spacial distribution of the candidates](Graficos/distribucion_candidatos/distribucion_espacial_RA_Dec_con_candidatos_mejorado.png)
 
 ---
