@@ -1,0 +1,12 @@
+Resultados usando SMOTE:
+Accuracy: 0.9751984126984127
+
+Reporte de clasificacion:
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       963
+           1       0.67      0.87      0.76        45
+
+    accuracy                           0.98      1008
+   macro avg       0.83      0.92      0.87      1008
+weighted avg       0.98      0.98      0.98      1008

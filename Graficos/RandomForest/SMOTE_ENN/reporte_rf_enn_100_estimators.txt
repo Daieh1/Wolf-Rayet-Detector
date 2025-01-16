@@ -1,0 +1,12 @@
+Resultados usando Random Forest con SMOTE-ENN y ajuste de umbral:
+Accuracy: 0.9603174603174603
+
+Reporte de clasificacion:
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98       963
+           1       0.54      0.82      0.65        45
+
+    accuracy                           0.96      1008
+   macro avg       0.76      0.89      0.81      1008
+weighted avg       0.97      0.96      0.96      1008

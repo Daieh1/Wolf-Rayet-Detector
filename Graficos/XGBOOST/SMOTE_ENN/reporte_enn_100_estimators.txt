@@ -1,0 +1,12 @@
+Resultados usando SMOTE-ENN:
+Accuracy: 0.9632936507936508
+
+Reporte de clasificacion:
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98       963
+           1       0.56      0.89      0.68        45
+
+    accuracy                           0.96      1008
+   macro avg       0.78      0.93      0.83      1008
+weighted avg       0.98      0.96      0.97      1008

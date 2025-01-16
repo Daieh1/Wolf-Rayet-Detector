@@ -1,0 +1,12 @@
+Resultados usando Random Forest con SMOTE-Tomek:
+Accuracy: 0.9732142857142857
+
+Reporte de clasificacion:
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       963
+           1       0.66      0.82      0.73        45
+
+    accuracy                           0.97      1008
+   macro avg       0.83      0.90      0.86      1008
+weighted avg       0.98      0.97      0.97      1008
